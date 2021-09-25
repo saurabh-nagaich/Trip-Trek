@@ -54,28 +54,28 @@
 ![3RE Architecture](./public/img/slide/RRR.png)
 
 
-# Some restricted and protected routes ![access](public\img\slide\shield30.png)
+# Some restricted and protected routes ![access](public/img/slide/shield30.png)
 **Some restricted (Have access)**
 |  Operation      | admin                                              | Lead-Guide                                         | Guide  | User   |
 |    :---         | :----:                                             | :----:                                             | :----: | :----: |
-| Create Tour     | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Update Tour     | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Delete Tour     | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-|
-| Get All User    | ![Have Access](public\img\slide\checked-radio.png) |    |        |        |
-| Get User        | ![Have Access](public\img\slide\checked-radio.png) |    |        |        |
-| Create User     | ![Have Access](public\img\slide\checked-radio.png) |    |        |        |
-| update User     | ![Have Access](public\img\slide\checked-radio.png) |    |        |        |
-| delete User     | ![Have Access](public\img\slide\checked-radio.png) |    |        |        |
-|
-| Get all Booking | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Get Booking     | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Create Booking  | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Update Booking  | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| Delete Booking  | ![Have Access](public\img\slide\checked-radio.png) | ![Have Access](public\img\slide\checked-radio.png) |        |        |
-| 
-| Update Review   | ![Have Access](public\img\slide\checked-radio.png) |                                                    |        | ![Have Access](public\img\slide\checked-radio.png) |
-| Create Review   |                                                    |                                                    |        | ![Have Access](public\img\slide\checked-radio.png) |
+| Create Tour     | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Update Tour     | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Delete Tour     | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+|                 |                                                    |                                                    |        |        | 
+| Get All User    | ![Have Access](public/img/slide/checked-radio.png) |    |        |        |
+| Get User        | ![Have Access](public/img/slide/checked-radio.png) |    |        |        |
+| Create User     | ![Have Access](public/img/slide/checked-radio.png) |    |        |        |
+| update User     | ![Have Access](public/img/slide/checked-radio.png) |    |        |        |
+| delete User     | ![Have Access](public/img/slide/checked-radio.png) |    |        |        |
+|                 |                                                    |    |        |        |   
+| Get all Booking | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Get Booking     | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Create Booking  | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Update Booking  | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+| Delete Booking  | ![Have Access](public/img/slide/checked-radio.png) | ![Have Access](public/img/slide/checked-radio.png) |        |        |
+|                 |                                                    |                                                    |        |        |    
+| Update Review   | ![Have Access](public/img/slide/checked-radio.png) |                                                    |        | ![Have Access](public/img/slide/checked-radio.png) |
+| Create Review   |                                                    |                                                    |        | ![Have Access](public/img/slide/checked-radio.png) |
 
 
 ## **How to build and run this project**
