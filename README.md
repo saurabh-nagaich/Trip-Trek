@@ -303,5 +303,5 @@ for local server
 [API Doc](https://documenter.getpostman.com/view/17229398/TzzHnDae)
 
 
-# FrontEnd part under Devlopment phase
+# FrontEnd part under Development phase
 * Support it by clicking the 🌟 button on the upper right of this page. ❤️
