@@ -2,7 +2,7 @@
 
 ## Description
 
->A full Stack web application made for tour lover (travelers) to book,create,update,delete tours and use related functionality. All member has diff rights restitution, they operate a application according to their roles.
+>A full Stack web application made for tour lover (travelers) to book,create,update,delete tours and use related functionality. All members have diff rights & restrictions, they operate a application according to their roles.
 
 >When I was working on this project, I learned advanced features of _**NODE.js**_ and _**MongoDB**_, and now I have clear foundation knowledge with advanced stuff
 
@@ -303,5 +303,5 @@ for local server
 [API Doc](https://documenter.getpostman.com/view/17229398/TzzHnDae)
 
 
-
+# FrontEnd part under Devlopment phase
 * Support it by clicking the 🌟 button on the upper right of this page. ❤️
