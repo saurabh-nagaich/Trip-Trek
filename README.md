@@ -1,4 +1,5 @@
 # Trip&trep
+A full Stack web application made for tour lover (travelers)
 
 ## Description
 
