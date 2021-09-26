@@ -10,7 +10,7 @@ A full Stack web application made for tour lover (travelers)
 ## Some Key Features I Learned
 
 * **Create Secure API**
-* **How _**Node**_ works Behide the scenes**
+* **How _**Node**_ works Behind the scenes**
     * NODE Processes ,Threads Thread Pool
     * Event Loop
     * Event-Driven architecture
